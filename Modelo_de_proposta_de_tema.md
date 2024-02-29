@@ -1,20 +1,35 @@
-> toda proposta de tema de projeto de PI3 deve seguir o padrão abaixo.
 
 # Proposta de Tema de PI3
-Título:
+Título: Framework de Programação de Aplicações para Integração de Dados Meteorológicos em Ambiente Visual Unity (Sugestão: Consumo de dados via API e visualização 3D no Unity) 
 
-Aluno(s): Nome 1 e Nome 2 
+Aluno(s): Marcello Antunes Vanz
 
-Orientador: Prof. Nome
+Orientador: Prof. Sergio Augusto Bitencourt Petrovcic
 
 # Objetivo geral
-> o objetivo geral expressa a ação que irá definir o projeto em um sentido amplo
+> Buscar informações meteorológicas em tempo real por meio da API do CPTEC e exibi-las no Unity, incluindo dados como velocidade e direção do vento, ondulação, temperatura, visibilidade, entre outros.
 
 # Objetivos específicos
-> os objetivos específicos são as diferentes ações a serem tomadas durante o desenvolvimento visando concretizar o objetivo geral
+
+- Coletar informações a partir de aPI online;
+- Processar e analisar os dados provenientes da CPTEC visando a sua otimização;
+- Integrar de maneira sinérgica os dados otimizados ao ambiente visual Unity;
+- Conceber e implementar uma interface visual sofisticada, enriquecida por efeitos visuais, dentro do contexto do ambiente Unity.
+
 
 # Metodologia
-> descreva a metodologia de desenvolvimento destacando quais são as etapas
+> Inicialmente, o projeto abordará uma fase dedicada ao estudo de como consumir APIs usando C#. Este passo é crucial para garantir uma compreensão sólida dos princípios e recursos da linguagem, proporcionando uma base robusta para o desenvolvimento subsequente.
+
+Após a conclusão da fase de estudo, será feita a implementação da aplicação responsável por coletar dados meteorológicos. Isso envolverá a utilização de bibliotecas e APIs relevantes para garantir a precisão e a atualidade das informações obtidas. É essencial estabelecer um sistema eficiente de captura e armazenamento desses dados.
+
+A etapa subsequente consistirá no tratamento dos dados meteorológicos coletados. Isso incluirá a aplicação de algoritmos para garantir a consistência e confiabilidade das informações antes de sua integração na aplicação principal.
+
+A integração dos dados tratados será realizada no ambiente Unity, onde será desenvolvido uma interface interativa. O objetivo é criar uma experiência envolvente e visualmente atraente para os usuários, utilizando recursos gráficos e de design do Unity.
+
+Além disso, dedicaremos atenção especial ao desenvolvimento de uma lógica coesa e intuitiva na aplicação Unity. Isso garantirá que a interação com os dados meteorológicos seja não apenas informativa, mas também agradável e fácil de usar para o público-alvo.
+
+Ao longo de todo o processo, serão adotadas as melhores práticas de programação, design e documentação, visando a criação de um software robusto, escalável e de fácil manutenção.
+
 
 # Cronograma
 > crie um projeto no GitHub discriminando as ações e o período em que as mesmas serão realizadas
@@ -23,18 +38,11 @@ Orientador: Prof. Nome
 Clique [aqui](https://github.com/users/sergiopetrovcic/projects/8/views/1?layout=roadmap) para acessar o cronograma.
 
 # Lista de materiais
-> crie uma lista dos materiais que serão necessários para a execução do projeto
-> 
-> utilize preço médio do mercado mesmo que não seja necessário comprar
-
-| Item | Descrição | Unidade | Valor Unitário | Quantidade | Total |
-| ---- | ------------- | --- | ------------- | ------------- | ------------- |
-|  01  | Eletroduto rígido de 3/4" branco | barra | R$ 30,00 | 1 | R$ 30,00 |
-|  02  | Fita isolante | rolo de 5 m | R$ 20,00 | 5 | R$ 100,00 |
-|    |  |   |  |  | **R$ 130,00** |
+> Como o projeto será desenvolvido apenas virtualmente, com software de programação e editor visual, com licenças gratuitas, será usado o Microsoft Visual Studio 2022 e Unity.
 
 # Unidades curriculares envolvidas
-> liste as unidades curriculares envolvidas com o tema escolhido
-- Disciplina 1;
-- Disciplina 2;
-- Disciplina n.
+
+- Programação I;
+- Programação II;
+- Computação científica.
+
