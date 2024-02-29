@@ -7,7 +7,7 @@ Aluno(s): Marcello Antunes Vanz
 Orientador: Prof. Sergio Augusto Bitencourt Petrovcic
 
 # Objetivo geral
-> Buscar informações meteorológicas em tempo real por meio da API do CPTEC e exibi-las no Unity, incluindo dados como velocidade e direção do vento, ondulação, temperatura, visibilidade, entre outros.
+Buscar informações meteorológicas em tempo real por meio da API do CPTEC e exibi-las no Unity, incluindo dados como velocidade e direção do vento, ondulação, temperatura, visibilidade, entre outros.
 
 # Objetivos específicos
 
@@ -18,7 +18,7 @@ Orientador: Prof. Sergio Augusto Bitencourt Petrovcic
 
 
 # Metodologia
-> Inicialmente, o projeto abordará uma fase dedicada ao estudo de como consumir APIs usando C#. Este passo é crucial para garantir uma compreensão sólida dos princípios e recursos da linguagem, proporcionando uma base robusta para o desenvolvimento subsequente.
+Inicialmente, o projeto abordará uma fase dedicada ao estudo de como consumir APIs usando C#. Este passo é crucial para garantir uma compreensão sólida dos princípios e recursos da linguagem, proporcionando uma base robusta para o desenvolvimento subsequente.
 
 Após a conclusão da fase de estudo, será feita a implementação da aplicação responsável por coletar dados meteorológicos. Isso envolverá a utilização de bibliotecas e APIs relevantes para garantir a precisão e a atualidade das informações obtidas. É essencial estabelecer um sistema eficiente de captura e armazenamento desses dados.
 
@@ -32,13 +32,11 @@ Ao longo de todo o processo, serão adotadas as melhores práticas de programaç
 
 
 # Cronograma
-> crie um projeto no GitHub discriminando as ações e o período em que as mesmas serão realizadas
-> coloque dentro do parênteses abaixo o link para o projeto criado
 
-Clique [aqui](https://github.com/users/sergiopetrovcic/projects/8/views/1?layout=roadmap) para acessar o cronograma.
+Clique [aqui](https://github.com/users/V4nz05/projects/1) para acessar o cronograma.
 
 # Lista de materiais
-> Como o projeto será desenvolvido apenas virtualmente, com software de programação e editor visual, com licenças gratuitas, será usado o Microsoft Visual Studio 2022 e Unity.
+Como o projeto será desenvolvido apenas virtualmente, com software de programação e editor visual, com licenças gratuitas, será usado o Microsoft Visual Studio 2022 e Unity.
 
 # Unidades curriculares envolvidas
 
