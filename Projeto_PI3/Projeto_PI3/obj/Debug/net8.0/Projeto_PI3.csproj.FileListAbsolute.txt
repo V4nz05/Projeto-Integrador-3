@@ -1,0 +1,17 @@
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\bin\Debug\net8.0\Projeto_PI3.exe
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\bin\Debug\net8.0\Projeto_PI3.deps.json
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\bin\Debug\net8.0\Projeto_PI3.runtimeconfig.json
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\bin\Debug\net8.0\Projeto_PI3.dll
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\bin\Debug\net8.0\Projeto_PI3.pdb
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\obj\Debug\net8.0\Projeto_PI3.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\obj\Debug\net8.0\Projeto_PI3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\obj\Debug\net8.0\Projeto_PI3.AssemblyInfoInputs.cache
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\obj\Debug\net8.0\Projeto_PI3.AssemblyInfo.cs
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\obj\Debug\net8.0\Projeto_PI3.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\obj\Debug\net8.0\Projeto_.30AB4213.Up2Date
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\obj\Debug\net8.0\Projeto_PI3.dll
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\obj\Debug\net8.0\refint\Projeto_PI3.dll
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\obj\Debug\net8.0\Projeto_PI3.pdb
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\obj\Debug\net8.0\Projeto_PI3.genruntimeconfig.cache
+C:\Users\Marce\source\repos\Projeto_PI3\Projeto_PI3\obj\Debug\net8.0\ref\Projeto_PI3.dll
